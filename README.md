@@ -1,6 +1,7 @@
 # Family Contest
 
 A self-hosted web application for running anonymous family competitions like pumpkin carving, gingerbread house building, and holiday craft contests.
+![Home Page](images/reference.png)
 
 ## Overview
 
