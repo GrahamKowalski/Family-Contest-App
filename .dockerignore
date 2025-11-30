@@ -1,0 +1,40 @@
+# Dependencies
+node_modules
+*/node_modules
+
+# Build artifacts
+frontend/dist
+
+# Data directories
+data
+uploads
+*.db
+*.db-wal
+*.db-shm
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Git
+.git
+.gitignore
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Documentation
+README.md
+LICENSE
+
+# Logs
+*.log
+npm-debug.log*
